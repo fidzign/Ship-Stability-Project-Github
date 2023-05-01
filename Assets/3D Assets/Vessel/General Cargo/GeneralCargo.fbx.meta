@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 8c6d1516efbb1234a910f9cbe00e2c35
+timeCreated: 1664357648
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ballast_kanan
+    100002: ballast_kiri
+    100004: Camera
+    100006: cargo
+    100008: cargo.001
+    100010: crane
+    100012: DBWB
+    100014: DBWB 1P
+    100016: DBWB 1S
+    100018: DBWB 2P
+    100020: DBWB 2S
+    100022: DBWB 3P
+    100024: DBWB 3S
+    100026: deck
+    100028: deck_MeshPart0
+    100030: deck_MeshPart1
+    100032: Double_bottom
+    100034: FPWB
+    100036: //RootNode
+    100038: Hemi
+    100040: objGeneral_Cargo_Assembly_1_DC_Brep
+    100042: objlambung01
+    100044: objtutup_lambung
+    100046: Text
+    400000: ballast_kanan
+    400002: ballast_kiri
+    400004: Camera
+    400006: cargo
+    400008: cargo.001
+    400010: crane
+    400012: DBWB
+    400014: DBWB 1P
+    400016: DBWB 1S
+    400018: DBWB 2P
+    400020: DBWB 2S
+    400022: DBWB 3P
+    400024: DBWB 3S
+    400026: deck
+    400028: deck_MeshPart0
+    400030: deck_MeshPart1
+    400032: Double_bottom
+    400034: FPWB
+    400036: //RootNode
+    400038: Hemi
+    400040: objGeneral_Cargo_Assembly_1_DC_Brep
+    400042: objlambung01
+    400044: objtutup_lambung
+    400046: Text
+    2300000: ballast_kanan
+    2300002: ballast_kiri
+    2300004: cargo
+    2300006: cargo.001
+    2300008: crane
+    2300010: DBWB
+    2300012: DBWB 1P
+    2300014: DBWB 1S
+    2300016: DBWB 2P
+    2300018: DBWB 2S
+    2300020: DBWB 3P
+    2300022: DBWB 3S
+    2300024: deck_MeshPart0
+    2300026: deck_MeshPart1
+    2300028: Double_bottom
+    2300030: FPWB
+    2300032: objGeneral_Cargo_Assembly_1_DC_Brep
+    2300034: objlambung01
+    2300036: objtutup_lambung
+    2300038: Text
+    3300000: ballast_kanan
+    3300002: ballast_kiri
+    3300004: cargo
+    3300006: cargo.001
+    3300008: crane
+    3300010: DBWB
+    3300012: DBWB 1P
+    3300014: DBWB 1S
+    3300016: DBWB 2P
+    3300018: DBWB 2S
+    3300020: DBWB 3P
+    3300022: DBWB 3S
+    3300024: deck_MeshPart0
+    3300026: deck_MeshPart1
+    3300028: Double_bottom
+    3300030: FPWB
+    3300032: objGeneral_Cargo_Assembly_1_DC_Brep
+    3300034: objlambung01
+    3300036: objtutup_lambung
+    3300038: Text
+    4300000: cargo.001
+    4300002: ballast_kiri
+    4300004: crane
+    4300006: deck_MeshPart0
+    4300008: deck_MeshPart1
+    4300010: objtutup_lambung
+    4300012: Double_bottom
+    4300014: objGeneral_Cargo_Assembly_1_DC_Brep
+    4300016: cargo
+    4300018: ballast_kanan
+    4300020: objlambung01
+    4300022: DBWB
+    4300024: DBWB 1P
+    4300026: DBWB 1S
+    4300028: DBWB 2P
+    4300030: DBWB 2S
+    4300032: DBWB 3P
+    4300034: DBWB 3S
+    4300036: FPWB
+    4300038: Text
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

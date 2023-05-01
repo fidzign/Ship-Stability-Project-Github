@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 03d64e6aa98467a47b269aeaecefa7b1
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: mesh0.dat.desirefx.me_out_1
+    100002: mesh0.dat.desirefx.me_out_2
+    100004: mesh1.dat.desirefx.me_out_1
+    100006: mesh1.dat.desirefx.me_out_2
+    100008: mesh2.dat.desirefx.me_out_1
+    100010: mesh2.dat.desirefx.me_out_2
+    100012: mesh3.dat.desirefx.me_out_1
+    100014: mesh3.dat.desirefx.me_out_2
+    100016: mesh4.dat.desirefx.me_out_1
+    100018: mesh4.dat.desirefx.me_out_2
+    100020: mesh5.dat.desirefx.me_out_1
+    100022: mesh5.dat.desirefx.me_out_2
+    100024: mesh6.dat.desirefx.me_out_1
+    100026: mesh6.dat.desirefx.me_out_2
+    100028: mesh7.dat.desirefx.me_out_1
+    100030: mesh7.dat.desirefx.me_out_2
+    100032: mesh7.dat.desirefx.me_out_3
+    100034: mesh7.dat.desirefx.me_out_4
+    100036: mesh7.dat.desirefx.me_out_5
+    100038: mesh7.dat.desirefx.me_out_6
+    100040: mesh7.dat.desirefx.me_out_7
+    100042: mesh7.dat.desirefx.me_out_8
+    100044: mesh7.dat.desirefx.me_out_9
+    100046: mesh8.dat.desirefx.me_out_1
+    100048: mesh8.dat.desirefx.me_out_2
+    100050: Text001
+    100052: Text002
+    100054: Text003
+    100056: //RootNode
+    400000: mesh0.dat.desirefx.me_out_1
+    400002: mesh0.dat.desirefx.me_out_2
+    400004: mesh1.dat.desirefx.me_out_1
+    400006: mesh1.dat.desirefx.me_out_2
+    400008: mesh2.dat.desirefx.me_out_1
+    400010: mesh2.dat.desirefx.me_out_2
+    400012: mesh3.dat.desirefx.me_out_1
+    400014: mesh3.dat.desirefx.me_out_2
+    400016: mesh4.dat.desirefx.me_out_1
+    400018: mesh4.dat.desirefx.me_out_2
+    400020: mesh5.dat.desirefx.me_out_1
+    400022: mesh5.dat.desirefx.me_out_2
+    400024: mesh6.dat.desirefx.me_out_1
+    400026: mesh6.dat.desirefx.me_out_2
+    400028: mesh7.dat.desirefx.me_out_1
+    400030: mesh7.dat.desirefx.me_out_2
+    400032: mesh7.dat.desirefx.me_out_3
+    400034: mesh7.dat.desirefx.me_out_4
+    400036: mesh7.dat.desirefx.me_out_5
+    400038: mesh7.dat.desirefx.me_out_6
+    400040: mesh7.dat.desirefx.me_out_7
+    400042: mesh7.dat.desirefx.me_out_8
+    400044: mesh7.dat.desirefx.me_out_9
+    400046: mesh8.dat.desirefx.me_out_1
+    400048: mesh8.dat.desirefx.me_out_2
+    400050: Text001
+    400052: Text002
+    400054: Text003
+    400056: //RootNode
+    2300000: mesh0.dat.desirefx.me_out_1
+    2300002: mesh0.dat.desirefx.me_out_2
+    2300004: mesh1.dat.desirefx.me_out_1
+    2300006: mesh1.dat.desirefx.me_out_2
+    2300008: mesh2.dat.desirefx.me_out_1
+    2300010: mesh2.dat.desirefx.me_out_2
+    2300012: mesh3.dat.desirefx.me_out_1
+    2300014: mesh3.dat.desirefx.me_out_2
+    2300016: mesh4.dat.desirefx.me_out_1
+    2300018: mesh4.dat.desirefx.me_out_2
+    2300020: mesh5.dat.desirefx.me_out_1
+    2300022: mesh5.dat.desirefx.me_out_2
+    2300024: mesh6.dat.desirefx.me_out_1
+    2300026: mesh6.dat.desirefx.me_out_2
+    2300028: mesh7.dat.desirefx.me_out_1
+    2300030: mesh7.dat.desirefx.me_out_2
+    2300032: mesh7.dat.desirefx.me_out_3
+    2300034: mesh7.dat.desirefx.me_out_4
+    2300036: mesh7.dat.desirefx.me_out_5
+    2300038: mesh7.dat.desirefx.me_out_6
+    2300040: mesh7.dat.desirefx.me_out_7
+    2300042: mesh7.dat.desirefx.me_out_8
+    2300044: mesh7.dat.desirefx.me_out_9
+    2300046: mesh8.dat.desirefx.me_out_1
+    2300048: mesh8.dat.desirefx.me_out_2
+    3300000: mesh0.dat.desirefx.me_out_1
+    3300002: mesh0.dat.desirefx.me_out_2
+    3300004: mesh1.dat.desirefx.me_out_1
+    3300006: mesh1.dat.desirefx.me_out_2
+    3300008: mesh2.dat.desirefx.me_out_1
+    3300010: mesh2.dat.desirefx.me_out_2
+    3300012: mesh3.dat.desirefx.me_out_1
+    3300014: mesh3.dat.desirefx.me_out_2
+    3300016: mesh4.dat.desirefx.me_out_1
+    3300018: mesh4.dat.desirefx.me_out_2
+    3300020: mesh5.dat.desirefx.me_out_1
+    3300022: mesh5.dat.desirefx.me_out_2
+    3300024: mesh6.dat.desirefx.me_out_1
+    3300026: mesh6.dat.desirefx.me_out_2
+    3300028: mesh7.dat.desirefx.me_out_1
+    3300030: mesh7.dat.desirefx.me_out_2
+    3300032: mesh7.dat.desirefx.me_out_3
+    3300034: mesh7.dat.desirefx.me_out_4
+    3300036: mesh7.dat.desirefx.me_out_5
+    3300038: mesh7.dat.desirefx.me_out_6
+    3300040: mesh7.dat.desirefx.me_out_7
+    3300042: mesh7.dat.desirefx.me_out_8
+    3300044: mesh7.dat.desirefx.me_out_9
+    3300046: mesh8.dat.desirefx.me_out_1
+    3300048: mesh8.dat.desirefx.me_out_2
+    4300000: mesh0.dat.desirefx.me_out_1
+    4300002: mesh0.dat.desirefx.me_out_2
+    4300004: mesh1.dat.desirefx.me_out_1
+    4300006: mesh1.dat.desirefx.me_out_2
+    4300008: mesh2.dat.desirefx.me_out_1
+    4300010: mesh2.dat.desirefx.me_out_2
+    4300012: mesh3.dat.desirefx.me_out_1
+    4300014: mesh3.dat.desirefx.me_out_2
+    4300016: mesh4.dat.desirefx.me_out_1
+    4300018: mesh4.dat.desirefx.me_out_2
+    4300020: mesh5.dat.desirefx.me_out_1
+    4300022: mesh5.dat.desirefx.me_out_2
+    4300024: mesh6.dat.desirefx.me_out_1
+    4300026: mesh6.dat.desirefx.me_out_2
+    4300028: mesh7.dat.desirefx.me_out_1
+    4300030: mesh7.dat.desirefx.me_out_2
+    4300032: mesh7.dat.desirefx.me_out_3
+    4300034: mesh7.dat.desirefx.me_out_4
+    4300036: mesh7.dat.desirefx.me_out_5
+    4300038: mesh7.dat.desirefx.me_out_6
+    4300040: mesh7.dat.desirefx.me_out_7
+    4300042: mesh7.dat.desirefx.me_out_8
+    4300044: mesh7.dat.desirefx.me_out_9
+    4300046: mesh8.dat.desirefx.me_out_1
+    4300048: mesh8.dat.desirefx.me_out_2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

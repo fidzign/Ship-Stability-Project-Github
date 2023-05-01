@@ -1,0 +1,308 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.06.2014 00:50:59
+
+newmtl QM_body
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_body.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_body.dds
+
+newmtl 24___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+
+newmtl QM_truba
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_truba.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_truba.dds
+
+newmtl QM_elda_1
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_elda_1.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_elda_1.dds
+
+newmtl QM_elda_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_elda_2.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_elda_2.dds
+
+newmtl QM_zabor
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor.dds
+	map_d F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor.dds
+
+newmtl QM_niz
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM2_niz.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM2_niz.dds
+
+newmtl QM_okna
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_okna.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_okna.dds
+
+newmtl QM_paluba
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_paluba.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_paluba.dds
+
+newmtl QM_bassein
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_bassein.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_bassein.dds
+
+newmtl QM_paluba_doski
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_paluba_doski.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_paluba_doski.dds
+
+newmtl QM_verh
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM2_verh.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM2_verh.dds
+
+newmtl QM_zad
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_zad.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_zad.dds
+
+newmtl QM_nos
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_nos.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_nos.dds
+
+newmtl QM_bassein_water
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_bassein_water.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_bassein_water.dds
+	map_d F:\[ITPremium]\Queen Mary 2\Textures\QM_bassein_water.dds
+
+newmtl QM_lodki
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_lodki.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_lodki.dds
+
+newmtl QM_lodki_blik
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_lodki_blik.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_lodki_blik.dds
+
+newmtl QM_zabor_2
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_2.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_2.dds
+	map_d F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_2.dds
+
+newmtl QM_zabor_3
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_3.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_3.dds
+	map_d F:\[ITPremium]\Queen Mary 2\Textures\QM_zabor_3.dds
+
+newmtl QM_kort
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_kort.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_kort.dds
+
+newmtl QM_l
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5882 0.5882 0.5882
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka F:\[ITPremium]\Queen Mary 2\Textures\QM_l.dds
+	map_Kd F:\[ITPremium]\Queen Mary 2\Textures\QM_l.dds
+
+newmtl wire_214228153
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.8392 0.8941 0.6000
+	Kd 0.8392 0.8941 0.6000
+	Ks 0.3500 0.3500 0.3500
