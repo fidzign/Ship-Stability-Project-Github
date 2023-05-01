@@ -21,6 +21,8 @@ public class BuoyancyForce : MonoBehaviour
 	
 	[SerializeField]
 	[HideInInspector]
+
+	//Kualitas Bouyancy
 	private BuoyancyQuality quality = BuoyancyQuality.Medium;
 	
 	[SerializeField]
